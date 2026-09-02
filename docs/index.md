@@ -86,8 +86,8 @@ shortcuts rather than the general signal relationships being tested.
 
 ![Model test accuracy and Spearman correlation by tier](figures/results_by_tier.png)
 ![Full-tier:](figures/full.png)
-![gsc_only-tier:](figures/gsc-only.png)
-![ga4_only-tier:](figures/ga4-only.png)
+![Gsc_only-tier:](figures/gsc-only.png)
+![Ga4_only-tier:](figures/ga4-only.png)
 All three tiers score well above the 0.5 chance level on pairwise accuracy, and all
 three show a Spearman correlation above 0.97 with the baseline's ranking on
 held-out clients.
