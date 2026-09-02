@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Capstone Report — Refresh / Content Opportunity Scoring
 
 - **Author:** Ammar
