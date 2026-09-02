@@ -85,7 +85,9 @@ shortcuts rather than the general signal relationships being tested.
 | GA4-only | 0.973 | 0.867 | 0.985 |
 
 ![Model test accuracy and Spearman correlation by tier](figures/results_by_tier.png)
-
+![Full-tier:](full.png)
+![gsc_only-tier:](gsc-only.png)
+![ga4_only-tier:](ga4-only.png)
 All three tiers score well above the 0.5 chance level on pairwise accuracy, and all
 three show a Spearman correlation above 0.97 with the baseline's ranking on
 held-out clients.
@@ -96,8 +98,6 @@ time) producing tied, uninformative rankings. This is a direct consequence of th
 tier's data sparsity (median ~2 sessions per page), not a modeling failure — the
 model correctly has no basis to distinguish pages whose inputs are mechanically the
 same.
-
-![GSC-only tier: baseline vs. model ranking by page rank](figures/gsc_baseline_vs_model_ranking.png)
 
 ## 6. Interpretation
 
