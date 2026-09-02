@@ -2,13 +2,12 @@
 layout: default
 ---
 
-
 # Capstone Report — Refresh / Content Opportunity Scoring
 
 - **Author:** Ammar
 - **Lane:** Refresh / Content Opportunity Scoring (Lane 2)
 - **Repo:** https://github.com/ammar-aa/Fly_rank_internship_repo.git
-- **Date:** August 2026
+- **Date:** September 2026
 
 ## 1. Problem framing
 
