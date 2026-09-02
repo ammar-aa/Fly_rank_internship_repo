@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 # Capstone Report — Refresh / Content Opportunity Scoring
 
